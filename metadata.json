@@ -1,0 +1,8 @@
+{
+  "name": "Mediverse - AI Health Ledger",
+  "description": "A secure health management platform that uses Gemini AI to analyze medical reports, track health metrics, and provide an emergency medical card.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
